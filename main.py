@@ -2,6 +2,8 @@ from pathlib import Path
 from pytube import YouTube
 
 
+# @Author: ivesfg1
+# @GitHub: https://github.com/ivesfg1
 class YoutubeDownloader:
     """
     Main class
